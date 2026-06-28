@@ -1,11 +1,11 @@
 <a name="top"></a>
 
-<code>EXUCODEX_9X@GitHub:~$ cat README.md</code>
+<b><code>EXUCODEX_9X@GitHub:~$ cat README.md</code></b>
 
-[Me](#me) â€¢ [About](#about-me) â€¢ [Milestones](#milestones) â€¢ [Stats](#github-stats) â€¢ [Contact](#wanna-chat)
+[Me](#me) • [About](#about-me) • [Milestones](#milestones) • [Stats](#github-stats) • [Contact](#wanna-chat)
 
-<h1 align="center">ðŸ’» Hey, I'm EXUCODEX_9X ðŸ’»</h1>
-<h3 align="center">ðŸ”¥ Developer and Automation Addict from Germany ðŸ”¥</h3>
+<h1 align="center"><b>Hey, I'm EXUCODEX_9X</b></h1>
+<h3 align="center"><b>Developer and Automation Addict from Germany</b></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=exucoder_x9&label=Profile%20Views&color=blue&style=flat-square" alt="exucoder_x9" />
@@ -28,50 +28,50 @@
 
 <a name="me"></a>
 
-## ðŸ‘¤ Me
+## <b>Me</b>
 
-- ðŸ”Ž **Known as:** EXUCODEX_9X
-- ðŸ‘¤ **Age:** 17
-- ðŸ—ºï¸ **Location:** Germany  
-- ðŸ—£ï¸ **Languages:** German, English
-- ðŸ’» **Programming in:** Mainly Python
-- â­ **How everything started:** I've been passionate about tech since I was a very young child, and I began coding at the age of 13-14.
-- ðŸ˜‚ **Fun Fact:** I want to speak Russian so bad lol
+- **Known as:** EXUCODEX_9X
+- **Age:** 17
+- **Location:** Germany  
+- **Languages:** German, English
+- **Programming in:** Mainly Python
+- **How everything started:** I've been passionate about tech since I was a very young child, and I began coding at the age of 13-14.
+- **Fun Fact:** I want to speak Russian so bad lol
 
 ---
 
 <a name="about-me"></a>
 
-## ðŸ’¡ About Me
+## <b>About Me</b>
 
-* ðŸ”§ I create Tools, Bots & Automations that *just work*
-* ðŸ§  Currently learning **C++**
-* ðŸ§ª Interested in **Discord & Telegram Bots**, **APIs**, **Cybersecurity**, **Fullstack Development**, **Homelabbing**, **Crypto**, **Game Cheats**, **Malware Analytics**, and **Bug bounty hunting**
-* ðŸ§ Comfortable working in both **Linux** and **Windows** environments
+* **I create Tools, Bots & Automations that *just work***
+* **Currently learning C++**
+* **Interested in Discord & Telegram Bots, APIs, Cybersecurity, Fullstack Development, Homelabbing, Crypto, Game Cheats, Malware Analytics, and Bug bounty hunting**
+* **Comfortable working in both Linux and Windows environments**
 
 ---
 
 <a name="knowledge-areas"></a>
 
-## ðŸ§  Knowledge Areas
+## <b>Knowledge Areas</b>
 
-* ðŸ§¬ Reverse Engineering & Malware Analysis
-* ðŸ“¶ API Design & RESTful Service Integration
-* âš™ï¸ Session & Process Management
-* ðŸ’¤ Automation with Schedulers, Webhooks & Bots
-* ðŸ¤– Discord/Telegram Bot Frameworks
-* ðŸ—ï¸ License & Key-Based Authentication Systems
-* ðŸ›œ Network Monitoring & Proxy Interception
-* ðŸ§  Fullstack Development (Frontend â†” Backend)
-* ðŸ’» CLI & GUI Tool Development
-* ðŸ§ Working with Windows (10 & 11) and Linux (Mainly Arch, Ubuntu, Kali & REMnux)
-* ðŸ”Ž Vulnerability Research & Exploit Discovery
+* **Reverse Engineering & Malware Analysis**
+* **API Design & RESTful Service Integration**
+* **Session & Process Management**
+* **Automation with Schedulers, Webhooks & Bots**
+* **Discord/Telegram Bot Frameworks**
+* **License & Key-Based Authentication Systems**
+* **Network Monitoring & Proxy Interception**
+* **Fullstack Development (Frontend ↔ Backend)**
+* **CLI & GUI Tool Development**
+* **Working with Windows (10 & 11) and Linux (Mainly Arch, Ubuntu, Kali & REMnux)**
+* **Vulnerability Research & Exploit Discovery**
 
 ---
 
 <a name="milestones"></a>
 
-## ðŸŽ¯ Milestones
+## <b>Milestones</b>
 
 - [x] Get into Development
 - [x] Master Linux (Arch, Ubuntu, Kali, REMnux) and Windows (10 & 11)
@@ -90,7 +90,7 @@
 
 <a name="languages-tools"></a>
 
-## ðŸ§° Languages & Tools
+## <b>Languages & Tools</b>
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -156,7 +156,7 @@
 
 <a name="github-stats"></a>
 
-## ðŸ“Š GitHub Stats
+## <b>GitHub Stats</b>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=exucoder_x9&show_icons=true&theme=dark&count_private=true" height="170"/>
@@ -175,19 +175,19 @@
 
 <a name="current-focus"></a>
 
-## ðŸš€ Current Focus
+## <b>Current Focus</b>
 
-* ðŸ’¸ Building and refining **Payment Systems** with secure handling, validation mechanisms, and automation.
-* ðŸ”‘ Implementing **License Key Generation & Verification** workflows.
-* ðŸ¤– Developing **Automation Tools** for efficient deployment, session management, and service control.
-* ðŸ“Š Integrating **Real-Time Monitoring** and reporting for transactions, system health, and license status.
-* ðŸˆâ€â¬› **Uploading** and **Revamping** old projects on **GitHub**.
+* **Building and refining Payment Systems with secure handling, validation mechanisms, and automation.**
+* **Implementing License Key Generation & Verification workflows.**
+* **Developing Automation Tools for efficient deployment, session management, and service control.**
+* **Integrating Real-Time Monitoring and reporting for transactions, system health, and license status.**
+* **Uploading and Revamping old projects on GitHub.**
 
 ---
 
 <a name="wanna-chat"></a>
 
-## ðŸ”— Wanna Chat?
+## <b>Wanna Chat?</b>
 
 <p align="center">
   <a href="https://t.me/EXUCODEX_9X" target="_blank"><img src="https://img.shields.io/badge/Telegram-@EXUCODEX__9X-blue?style=for-the-badge&logo=telegram" /></a>
@@ -196,7 +196,7 @@
   <br />
   <a href="mailto:exucoder_x9@gmail.com"><img src="https://img.shields.io/badge/Email-exucoder__x9@gmail.com-informational?style=for-the-badge&logo=gmail" /></a>
   <br />
-  <a href="https://nohello.net" target="_blank" style="font-size:12px; color:gray;">Don't just say hello â€” https://nohello.net</a>
+  <a href="https://nohello.net" target="_blank" style="font-size:12px; color:gray;">Don't just say hello — https://nohello.net</a>
 </p>
 
 ---
