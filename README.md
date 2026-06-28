@@ -1,9 +1,3 @@
-<a name="top"></a>
-
-<b><code>EXUCODEX_9X@GitHub:~$ cat README.md</code></b>
-
-[Me](#me) • [About](#about-me) • [Milestones](#milestones) • [Stats](#github-stats) • [Contact](#wanna-chat)
-
 <h1 align="center"><b>Hey, I'm EXUCODEX_9X</b></h1>
 <h3 align="center"><b>Developer and Automation Addict from Germany</b></h3>
 
@@ -32,8 +26,8 @@
 
 - **Known as:** EXUCODEX_9X
 - **Age:** 17
-- **Location:** Germany  
-- **Languages:** German, English
+- **Location:** Bangladesh  
+- **Languages:** Bangla, English
 - **Programming in:** Mainly Python
 - **How everything started:** I've been passionate about tech since I was a very young child, and I began coding at the age of 13-14.
 - **Fun Fact:** I want to speak Russian so bad lol
